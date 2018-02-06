@@ -1,14 +1,8 @@
 ---
 layout: post
-title: First Post
+title: This is a Test
 ---
 
-This will be a markdown document allowing code snippits and static content. I will write about my experiences with TensorFlow and the various questions I had along the journey of bridging Deep learning reasearch and practice. 
-
-~~~ python
-import tensorflow as tf
-
-print('TensorFlow works! Hello World!!')
-~~~
-
-Best of luck!
+A few entries revolving around Computer Science
+other blogs worth noting:
+ - [jakevdp Blog](https://jakevdp.github.io/)
