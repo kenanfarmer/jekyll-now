@@ -1,15 +1,8 @@
 ---
 layout: page
-title: Papers
+title: Projects
 permalink: /papers/
 ---
+A quick summary of each project or paper that I have independently worked on or created. 
 
-Here are some of the papers that I have written and projects I have worked on!
-
-### More Information
-
-
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- 2018 Independent Work:  My Senior Independent Work Project was titled "Hyerspectral Semantic Segmentation in Varying Satellite Resolutions." Though quite a mouthful, it means I evaluated various Neural Network models at varying satellite resolutions to measure their performance dropoff. I evaluated U-Net, and varying types of SegNet.
