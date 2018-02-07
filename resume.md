@@ -15,6 +15,8 @@ Built customer-facing pages in Javascript framework ExtJS, with backend in .NET 
 Built Administration pages for data validation and analysis
 In company hackathon implemented machine learning algorithm to quantify product similarity and find most similar asset managers
 
+<hr>
+
 # Languages and Frameworks
 <!-- TODO -->
 Scala, Java,  JavaScript,  Python (advanced), SQL, R, C, C#, C++, Go (proficient)
@@ -26,8 +28,6 @@ Scala, Java,  JavaScript,  Python (advanced), SQL, R, C, C#, C++, Go (proficient
 Bachelors in Science and Engineering in the Computer Science department
 Certificate in Statistics and Machine Learning
 DI Track and Field and Cross Country Athlete
-
-<hr>
 
 ## Relevant Course Work
 ### Applications
