@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 My resume in HTML5 format or if you prefer (uglyier) pdf: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>
-### Experience
+# Experience
 ## Capital One Financial Corp.    Sept. 2018
 Completed my Summer Internship and accepted a full time position at Capital One as an Associate Software Engineer
 
@@ -13,7 +13,7 @@ Completed my Summer Internship and accepted a full time position at Capital One 
 <!-- TODO -->
 Scala, Java,  JavaScript,  Python (advanced), SQL, R, C, C#, C++, Go (proficient)
 
-### Education
+# Education
 ## Princeton University (C/O 2018)
 Bachelors in Science and Engineering in the Computer Science department
 Certificate in Statistics and Machine Learning
