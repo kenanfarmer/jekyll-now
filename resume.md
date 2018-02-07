@@ -4,12 +4,18 @@ title: Resume
 permalink: /resume/
 ---
 
-My resume in HTML5 format or if you prefer (uglyier) pdf: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>
+My resume in HTML5 format or if you prefer (an ugly) pdf: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>
 # Experience
 ## Capital One Financial Corp.    Sept. 2018
-Completed my Summer Internship and accepted a full time position at Capital One as an Associate Software Engineer
+Completed my Summer Internship and accepted a full time position at Capital One as an Associate Software Engineer.
+Worked on a data tool built on big data framework Spark to accomplish operational data analysis and automation of tasks.
 
-## Framework and Language Experience
+## eVestment Inc. Technology Intern 	     May 2016 - August 2016
+Built customer-facing pages in Javascript framework ExtJS, with backend in .NET and database in SQL 
+Built Administration pages for data validation and analysis
+In company hackathon implemented machine learning algorithm to quantify product similarity and find most similar asset managers
+
+# Languages and Frameworks
 <!-- TODO -->
 Scala, Java,  JavaScript,  Python (advanced), SQL, R, C, C#, C++, Go (proficient)
 
@@ -20,23 +26,25 @@ Certificate in Statistics and Machine Learning
 DI Track and Field and Cross Country Athlete
 
 ## Relevant Course Work
-<!-- TODO: BREAK INTO SECTIONS -->
-- COS 217 Introduction to Computer Systems (x86 inline wrapped in C but mostly teaching C and fundamentals of Systems)
-- COS 326 Functional Programming
-- COS 226 Algorithms and Datastructures
+### Applications
 - COS 485 Neural Networks
-- COS 418 Distributed Systems
 - COS 424 Machine Learning
-- COS 461 Computer Networks
+- COS 326 Functional Programming
 - COS 333 Advanced Programming
-- COS 445 Economics and Computing
+### Systems
+- COS 418 Distributed Systems
+- COS 461 Computer Networks
 - COS 432 Information Security
+- COS 217 Introduction to Computer Systems
+- COS 463 Wireless Networks (dont know how useful this outside in the real world but an amazing class and I can now speak to satellites so #worthIt)
+### Theory
+- COS 226 Algorithms and Datastructures
+- COS 445 Economics and Computing
+- COS 340 
 - ORF 309 Probability and Stochastic Systems
+### Misc.
 - ECO 312 Advanced Econometrics
 - ECO 362 Financial Investments
 
-- COS 463 Wireless Networks (dont know how useful this outside in the real world but an amazing class and I can now speak to satellites so #worthIt)
-
-
-### Contact
+# Contact
 [kenanfarmer(at)gmail.com](mailto:kenanfarmer@gmail.com)
