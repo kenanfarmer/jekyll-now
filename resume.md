@@ -19,11 +19,15 @@ In company hackathon implemented machine learning algorithm to quantify product 
 <!-- TODO -->
 Scala, Java,  JavaScript,  Python (advanced), SQL, R, C, C#, C++, Go (proficient)
 
+<hr>
+
 # Education
 ## Princeton University (C/O 2018)
 Bachelors in Science and Engineering in the Computer Science department
 Certificate in Statistics and Machine Learning
 DI Track and Field and Cross Country Athlete
+
+<hr>
 
 ## Relevant Course Work
 ### Applications
