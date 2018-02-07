@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Resume
 permalink: /resume/
 ---
 
@@ -41,7 +40,7 @@ DI Track and Field and Cross Country Athlete
 - COS 461 Computer Networks
 - COS 432 Information Security
 - COS 217 Introduction to Computer Systems
-- COS 463 Wireless Networks (dont know how useful this outside in the real world but an amazing class and I can now speak to satellites so #worthIt)
+- COS 463 Wireless Networks
 
 ### Theory
 - COS 226 Algorithms and Datastructures
