@@ -35,17 +35,20 @@ DI Track and Field and Cross Country Athlete
 - COS 424 Machine Learning
 - COS 326 Functional Programming
 - COS 333 Advanced Programming
+
 ### Systems
 - COS 418 Distributed Systems
 - COS 461 Computer Networks
 - COS 432 Information Security
 - COS 217 Introduction to Computer Systems
 - COS 463 Wireless Networks (dont know how useful this outside in the real world but an amazing class and I can now speak to satellites so #worthIt)
+
 ### Theory
 - COS 226 Algorithms and Datastructures
 - COS 445 Economics and Computing
 - COS 340 
 - ORF 309 Probability and Stochastic Systems
+
 ### Misc.
 - ECO 312 Advanced Econometrics
 - ECO 362 Financial Investments
