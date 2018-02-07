@@ -27,4 +27,4 @@ TBD but in the meantime heres a collection of Technical Blogs that I use frequen
 # Misc.
 - [The Down Linq](https://medium.com/the-downlinq) this is the main blog of IN-Q-TEL that I follow but they are all interesting
 
-protip: when reading papers on (Arxiv)[www.arxiv.org] use (Arxiv vantiy)[https://www.arxiv-vanity.com]
+protip: when reading papers on [Arxiv](www.arxiv.org) use [Arxiv vantiy](https://www.arxiv-vanity.com)
