@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Better Blogs than this
+title: Better Blogs
 ---
 
-
-#******* UNDER CONSTRUCTION  excuse the mess + clutter **************
-
 # Why?
-I hate blogs. Not all blogs but ones that repeat what others say. So as I figure out what I want this to be, I'll display a list of my favorite engineering blogs so I don't repeat them.
+I hate blogs. Not all blogs, just specifically redundant blogs. So as I figure out what I want this to be, I'll display a list of my favorite engineering blogs so I don't repeat them.
 
 # What?
 TBD but in the meantime heres a collection of Technical Blogs that I use frequently broken into categories (Note: nothing reall ybeats finding papers in the research area of interest and then looking at the papers they commonly cite) 
@@ -27,4 +24,4 @@ TBD but in the meantime heres a collection of Technical Blogs that I use frequen
 # Misc.
 - [The Down Linq](https://medium.com/the-downlinq) this is the main blog of IN-Q-TEL that I follow but they are all interesting
 
-protip: when reading papers on [Arxiv](www.arxiv.org) use [Arxiv vantiy](https://www.arxiv-vanity.com)
+when reading papers on [Arxiv](www.arxiv.org) use [Arxiv vantiy](https://www.arxiv-vanity.com)

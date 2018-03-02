@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Computer Scientist at Princeton University. I will be living in the northern Virigina Area (affectionately "NoVA") after graduation working for CapitalOne.
 
-### More Information
+### Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a track and field D1 athlete.  I am interested in networks, machine learning and public policy surrounding these themes. 
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[kenanfarmer(at)gmail.com](mailto:kenanfarmer@gmail.com)
+[@kenan_farmer](https://twitter.com/kenan_farmer)

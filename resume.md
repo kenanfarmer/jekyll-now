@@ -52,5 +52,8 @@ DI Track and Field and Cross Country Athlete
 - ECO 312 Advanced Econometrics
 - ECO 362 Financial Investments
 
+<!-- ## Projects
+___ -->
+
 # Contact
 [kenanfarmer(at)gmail.com](mailto:kenanfarmer@gmail.com)
