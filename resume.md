@@ -4,7 +4,7 @@ permalink: /resume/
 ---
 
 My resume in HTML5 format or if you prefer (an ugly) pdf: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>  
-LinkedIn: [Kenan Farmer](www.linkedin.com/in/kenan-j-farmer)
+LinkedIn: [Kenan Farmer](https://www.linkedin.com/in/kenan-j-farmer)
 
 # Experience
 ## Capital One Financial Corp.    Sept. 2018
