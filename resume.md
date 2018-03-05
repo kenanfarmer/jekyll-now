@@ -3,16 +3,19 @@ layout: page
 permalink: /resume/
 ---
 
-My resume in HTML5 format or if you prefer (an ugly) pdf: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>
+My resume in HTML5 format or if you prefer (an ugly) pdf: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>  
+LinkedIn: [Kenan Farmer](www.linkedin.com/in/kenan-j-farmer)
+
 # Experience
 ## Capital One Financial Corp.    Sept. 2018
-Completed my Summer Internship and accepted a full time position at Capital One as an Associate Software Engineer.
-Worked on a data tool built on big data framework Spark to accomplish operational data analysis and automation of tasks.
+Completed my Summer Internship and accepted a full-time position at Capital One as an Associate Software Engineer.
+Worked on a data tool built on top of Apache Spark to accomplish operational data analysis and automation of tasks.
+Converted project components into data-streaming compatible components, helped with infrastructure and environment optimization.
 
 ## eVestment Inc. Technology Intern 	     May 2016 - August 2016
-Built customer-facing pages in Javascript framework ExtJS, with backend in .NET and database in SQL 
-Built Administration pages for data validation and analysis
-In company hackathon implemented machine learning algorithm to quantify product similarity and find most similar asset managers
+* Built customer-facing pages in Javascript framework ExtJS, with backend in .NET and database in SQL  
+* Built Administration pages for data validation and analysis  
+* In company hackathon implemented machine learning algorithm to quantify product similarity and find most similar asset managers  
 
 <hr>
 
@@ -45,7 +48,7 @@ DI Track and Field and Cross Country Athlete
 ### Theory
 - COS 226 Algorithms and Datastructures
 - COS 445 Economics and Computing
-- COS 340 
+- COS 340 Reasoning about Computation
 - ORF 309 Probability and Stochastic Systems
 
 ### Misc.
