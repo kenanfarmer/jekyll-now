@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am a Computer Scientist working for Capital One Financial Corp. 
+I am a Software Engineer working for Capital One Financial Corp. I graduated from Princeton University with a major in Computer Science and a Minor in Statistics and Machine Learning. I am passionate about Computational Economics, Stochastic Systems, and Machine Learning. I was a Division I Track and Field Athlete and live in Northern Virginia.
+
+<!--## Places I've Been
+
+Spain, France, Monaco, Croatia, Hungary, Austria, Switzerland, Costa Rica
+ include pictures -->
+
 
 ### Contact info
 [kenanfarmer(at)gmail.com](mailto:kenanfarmer@gmail.com)
