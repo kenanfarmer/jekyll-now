@@ -3,7 +3,7 @@ layout: page
 permalink: /resume/
 ---
 
-My resume in HTML5 format or if you prefer (an ugly) pdf: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>  
+This page is my resume in HTML5 format. If you prefer a pdf here is the link: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>  
 LinkedIn: [Kenan Farmer](https://www.linkedin.com/in/kenan-j-farmer)
 
 # Experience
