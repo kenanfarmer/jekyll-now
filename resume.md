@@ -7,12 +7,14 @@ This page is my resume in HTML5 format. If you prefer a pdf here is the link: <a
 <!-- LinkedIn: [Kenan Farmer](https://www.linkedin.com/in/kenan-j-farmer) -->
 
 # Experience
-## Capital One Financial Corp.    Sept. 2018
+## Capital One Financial Corp.  Sept. 2018
+### Technology Associate
 Completed my Summer Internship and accepted a full-time position at Capital One as an Associate Software Engineer.
 Worked on a data tool built on top of Apache Spark to accomplish operational data analysis and automation of tasks.
 Converted project components into data-streaming compatible components, helped with infrastructure and environment optimization.
 
-## eVestment Inc. Technology Intern 	     May 2016 - August 2016
+## eVestment Inc.               May 2016 - August 2016
+### Technology Intern
 * Built customer-facing pages in Javascript framework ExtJS, with backend in .NET and database in SQL  
 * Built Administration pages for data validation and analysis  
 * In company hackathon implemented machine learning algorithm to quantify product similarity and find most similar asset managers  

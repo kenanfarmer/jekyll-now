@@ -11,7 +11,6 @@ A quick summary of each project or paper that I have independently worked on or 
 
 Note: I have been asked if this is a way to get around state-imposed restrictions. WireGuard VPN is still being developed and thus should not be used till mature. It is a great way to experiment and learn. A good quick start guide was covered by TechCrunch [here](https://techcrunch.com/2018/07/28/how-i-made-my-own-wireguard-vpn-server/) along with Ansible scripts [here](https://github.com/trailofbits/algo)
 
-- 
 <!-- - WMATA Clone <In progress> Curious about NFC and RFID protocols and tired of carying MetroCards around, I contacted WMATA to see if I could make an app that clones/replays MetroCard ids to their RFID recievers. I experimented with the Swift language, RFID documentation, and starting my own OpenSource Project.
 
 the trello board for tracking this project's progress is here: <a href="">MetroCard</a> -->
