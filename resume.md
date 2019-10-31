@@ -5,7 +5,8 @@ permalink: /resume/
 
 This page is my resume in HTML5 format. If you prefer a pdf here is the link: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>
 
-<!-- LinkedIn: [Kenan Farmer](https://www.linkedin.com/in/kenan-j-farmer) -->
+LinkedIn: [Kenan Farmer](https://www.linkedin.com/in/kenan-j-farmer)
+Stack Overflow: [Kenan Farmer](https://stackoverflow.com/users/story/3953214)
 
 # Experience
 
@@ -13,7 +14,8 @@ This page is my resume in HTML5 format. If you prefer a pdf here is the link: <a
 
 ### Senior Engineer
 
-Wrote vital D3 and VueJS components for the application, as well has WebGL integration. Vue
+Worked as a Full Stack Engineer and Site Reliability Engineer. Improved up time to always-on and preemptive scaling. Reduced costs with Spot Instance Workers as part of a Kubernetes Cluster. Automated Deployments with Concourse CICD, Terraform, and ansible. Wrote Golang microservices, worked on various scala backends, and Vue.js frontend with D3 visualizations of large scale graphs.
+Introduced industry best practices and empower team member's development. Integrated Vagrant for a non-intrusive, consistent, development environment.
 
 ## Capital One Financial Corp. [Summer 2017, June. 2019]
 
