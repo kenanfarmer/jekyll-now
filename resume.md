@@ -3,26 +3,35 @@ layout: page
 permalink: /resume/
 ---
 
-This page is my resume in HTML5 format. If you prefer a pdf here is the link: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>  
-<!-- LinkedIn: [Kenan Farmer](https://www.linkedin.com/in/kenan-j-farmer) -->
+This page is my resume in HTML5 format. If you prefer a pdf here is the link: <a href="{{ site.baseurl }}/resume.pdf">Resume</a>
+
+LinkedIn: [Kenan Farmer](https://www.linkedin.com/in/kenan-j-farmer)
+Stack Overflow: [Kenan Farmer](https://stackoverflow.com/users/story/3953214)
 
 # Experience
+
 ## Deloitte Tousche Tohmatsu Limited. [June 2019, Present]
+
 ### Senior Engineer
 
-Wrote vital D3 and VueJS components for the application, as well has WebGL integration. Vue
+Worked as a Full Stack Engineer and Site Reliability Engineer. Improved up time to always-on and preemptive scaling. Reduced costs with Spot Instance Workers as part of a Kubernetes Cluster. Automated Deployments with Concourse CICD, Terraform, and ansible. Wrote Golang microservices, worked on various scala backends, and Vue.js frontend with D3 visualizations of large scale graphs.
+Introduced industry best practices and empower team member's development. Integrated Vagrant for a non-intrusive, consistent, development environment.
 
 ## Capital One Financial Corp. [Summer 2017, June. 2019]
+
 ### Technology Associate
+
 Completed my Summer Internship and accepted a full-time position at Capital One as an Associate Software Engineer.
 Worked on a data tool built on top of Apache Spark to accomplish operational data analysis and automation of tasks.
 Converted project components into data-streaming compatible components, helped with infrastructure and environment optimization.
 
-## eVestment Inc.   [May 2016 - August 2016]
+## eVestment Inc. [May 2016 - August 2016]
+
 ### Technology Intern
-* Built customer-facing pages in Javascript framework ExtJS, with backend in .NET and database in SQL  
-* Built Administration pages for data validation and analysis  
-* In company hackathon implemented machine learning algorithm to quantify product similarity and find most similar asset managers  
+
+- Built customer-facing pages in Javascript framework ExtJS, with backend in .NET and database in SQL
+- Built Administration pages for data validation and analysis
+- In company hackathon implemented machine learning algorithm to quantify product similarity and find most similar asset managers
 
 <hr/>
 
@@ -50,7 +59,7 @@ Spark, PyTorch, scikit-learn, TensorFlow, JupyterHub
 
 ## Certifications
 
-* AWS Solutions Architect
+- AWS Solutions Architect
 
 <hr/>
 
@@ -66,35 +75,31 @@ DI Track and Field and Cross Country Athlete
 
 ### Applications
 
-* COS 485 Neural Networks
-* COS 424 Machine Learning
-* COS 326 Functional Programming
-* COS 333 Advanced Programming
+- COS 485 Neural Networks
+- COS 424 Machine Learning
+- COS 326 Functional Programming
+- COS 333 Advanced Programming
 
 ### Systems
 
-* COS 418 Distributed Systems
-* COS 461 Computer Networks
-* COS 432 Information Security
-* COS 217 Introduction to Computer Systems
-* COS 463 Wireless Networks
+- COS 418 Distributed Systems
+- COS 461 Computer Networks
+- COS 432 Information Security
+- COS 217 Introduction to Computer Systems
+- COS 463 Wireless Networks
 
 ### Theory
 
-* COS 226 Algorithms and Datastructures
-* COS 445 Economics and Computing
-* COS 340 Reasoning about Computation
-* ORF 309 Probability and Stochastic Systems
+- COS 226 Algorithms and Datastructures
+- COS 445 Economics and Computing
+- COS 340 Reasoning about Computation
+- ORF 309 Probability and Stochastic Systems
 
 ### Miscelanious
 
-* ECO 312 Advanced Econometrics
-* ECO 362 Financial Investments
-
-<!-* ## Volunteer
-I volunteer as a Reserve Metro Police for the District of Columbia (MPDC).
-INSERT PIC
- -->
+- ECO 312 Advanced Econometrics
+- ECO 362 Financial Investments
 
 # Contact
+
 [kenanfarmer(at)gmail.com](mailto:kenanfarmer@gmail.com)
